@@ -100,5 +100,4 @@ I built this project to get hands-on experience with the complete cycle of a Dat
 ### 🖼️ App Screenshot
 
 <img width="926" height="602" alt="app_screenshot" src="https://github.com/user-attachments/assets/29806ffa-4c9f-4e69-b4af-96a4fcd201cc" />
-##hii
 
